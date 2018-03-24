@@ -18,9 +18,9 @@ IMPORTANT: Links must be HTTPS!
 /* ========== CUSTOMIZABLE VARIABLES ========== */
 :root {
     /* COLOURS */
-	--main-color: #2780e6;
-	--hover-color: #1f66b8;
-	--channel-color: #ccffff;
+	--main-color: #1fc409;
+	--hover-color: #42d5e5;
+	--channel-color: #ff0000;
 	
     /* IMAGES */
 	--background-image: url(https://puu.sh/w1xZT/27dd03a07c.png);
